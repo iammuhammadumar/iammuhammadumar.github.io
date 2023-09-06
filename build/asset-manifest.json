@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6a70c80e.css",
-    "main.js": "/static/js/main.7984dbbd.js",
+    "main.js": "/static/js/main.70046e25.js",
     "static/media/apod.jpg": "/static/media/apod.5837a97979bfd98485a6.jpg",
     "static/media/iptracker.jpg": "/static/media/iptracker.6ab6589069ce320ad5eb.jpg",
     "static/media/nftportal.jpg": "/static/media/nftportal.85c74c9d58db965c3c2e.jpg",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6a70c80e.css.map": "/static/css/main.6a70c80e.css.map",
-    "main.7984dbbd.js.map": "/static/js/main.7984dbbd.js.map"
+    "main.70046e25.js.map": "/static/js/main.70046e25.js.map"
   },
   "entrypoints": [
     "static/css/main.6a70c80e.css",
-    "static/js/main.7984dbbd.js"
+    "static/js/main.70046e25.js"
   ]
 }
