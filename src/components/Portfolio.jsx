@@ -12,37 +12,37 @@ const Portfolio = () => {
       id: 1,
       src: api,
       link: 'https://crypto-info-api.herokuapp.com/',
-      repo: 'https://github.com/rahulkarda/crypto-info-api'
+      repo: 'https://github.com/Muhammad Umar/crypto-info-api'
     },
     {
       id: 2,
       src: webpostman,
       link: 'https://webpostman.netlify.app/',
-      repo: 'https://github.com/rahulkarda/Web-Postman'
+      repo: 'https://github.com/Muhammad Umar/Web-Postman'
     },
     {
       id: 3,
       src: apod,
-      link: 'https://apodbyrahul.netlify.app/',
-      repo: 'https://github.com/rahulkarda/NASA-APOD'
+      link: 'https://apodbyMuhammad Umar.netlify.app/',
+      repo: 'https://github.com/Muhammad Umar/NASA-APOD'
     },
     {
       id: 4,
       src: waveportal,
-      link: 'https://waveatrahul.netlify.app/',
-      repo: 'https://github.com/rahulkarda/Wave-Portal'
+      link: 'https://waveatMuhammad Umar.netlify.app/',
+      repo: 'https://github.com/Muhammad Umar/Wave-Portal'
     },
     {
       id: 5,
       src: nftportal,
-      link: 'https://nftportalbyrahul.netlify.app/',
-      repo: 'https://github.com/rahulkarda/NFT-Portal'
+      link: 'https://nftportalbyMuhammad Umar.netlify.app/',
+      repo: 'https://github.com/Muhammad Umar/NFT-Portal'
     },
     {
       id: 6,
       src: iptracker,
       link: 'https://trackmyip.netlify.app/',
-      repo: 'https://github.com/rahulkarda/IP-Address-Tracker'
+      repo: 'https://github.com/Muhammad Umar/IP-Address-Tracker'
     },
   ];
 
